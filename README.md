@@ -15,11 +15,6 @@ A curated collection of **quantum / quantum-inspired machine learning** papers, 
 This repository collects research papers at the intersection of **quantum computing**, **machine learning**, and **real-world applications**, especially in **medicine and healthcare**.  
 The goal is to build a structured reading list that can be extended over time, serving as a personal knowledge base and a quick reference for future projects.
 
-**Tiếng Việt**
-
-Repo này dùng để tổng hợp các bài báo về **machine learning lượng tử** và **mô hình lấy cảm hứng từ lượng tử**, đặc biệt trong **y học và chăm sóc sức khỏe**, kèm theo một số hướng khác như **an ninh, mạng, năng lượng**.  
-Mục tiêu là có một danh sách đọc rõ ràng, dễ mở rộng, dùng làm **“sổ tay paper”** cho các dự án sau này.
-
 ---
 
 ## 📚 Table of Contents
