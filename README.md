@@ -8,6 +8,12 @@ A curated collection of **quantum / quantum-inspired machine learning** papers, 
 
 ---
 
+## My notion
+  https://www.notion.so/Knowledge-from-Papers-2a570e4d05c0806e858aff06b885cc31
+
+---
+---
+
 ## 🌍 About This Repository
 
 **English**
