@@ -116,6 +116,3 @@ Applications of quantum machine learning **beyond healthcare**.
   - Dataset type (tabular, imaging, omics, signals)
   - Quantum model type (QSVM, QNN, hybrid models, quantum kernels…)
   - Application domain (diagnosis, prognosis, biomarker detection, drug discovery, security, energy, etc.)
-- 📌 Add links to **code implementations** (official or reproduced) when available.
-
-> Nếu sau này bạn muốn mình giúp viết thêm phần **“How to use this repo”**, **roadmap đọc paper**, hoặc bảng tổng hợp (table) các paper theo task/model, mình có thể format luôn cho phù hợp với GitHub.
